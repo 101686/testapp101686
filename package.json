@@ -1,0 +1,26 @@
+{
+  "name": "testapp101686",
+  "version": "1.0.0",
+  "description": "Minimal Express app ready for Azure App Service deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No tests configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101686/testapp101686.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/101686/testapp101686/issues"
+  },
+  "homepage": "https://github.com/101686/testapp101686#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
