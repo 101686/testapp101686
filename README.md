@@ -28,7 +28,7 @@ LOCATION="westeurope"
 APP_NAME="testapp101686-$RANDOM"
 ```
 
-### 2) Vytvoreni resource group a App Service planu
+### 2) Vytvoreni resource group a App Service planu,jj
 
 ```bash
 az group create --name "$RESOURCE_GROUP" --location "$LOCATION"
